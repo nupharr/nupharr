@@ -10,4 +10,4 @@ Welcome to my GitHub! I'm a beginner Python developer passionate about writing c
 
 ## 📂 Projects
 
-![loading](https://github.com/nupharr/nupharr/blob/main/assets/bouncing-circles.svg)
+<img src="https://github.com/nupharr/nupharr/blob/main/assets/bouncing-circles.svg" alt="loading" width="200"/>
